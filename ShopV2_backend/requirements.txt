@@ -1,0 +1,10 @@
+alembic~=1.16.1
+fastapi~=0.115.12
+Jinja2~=3.1.6
+psycopg~=3.2.9
+python-jose~=3.5.0
+pydantic~=2.11.5
+sqlalchemy~=2.0.41
+template~=0.7.6
+utils~=1.0.2
+uvicorn[standard]~=0.34.3
